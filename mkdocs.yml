@@ -1,0 +1,10 @@
+site_name: GA4 Setup Checklist for Law Firm Websites
+site_description: How to set up Google Analytics 4 on a law firm website so calls, forms and bookings are counted as leads, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-ga4-setup-checklist.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - GA4 checklist: index.md
+markdown_extensions:
+  - tables
